@@ -30,7 +30,7 @@ section {
     border-radius: 1em;
     max-width: 300px;
     min-height: 50vh;
-    margin: 5em auto 0 auto;
+    margin: 10em auto 0 auto;
     box-shadow: 5px 5px 10px hsl(226, 35%, 86%);
 }
 
